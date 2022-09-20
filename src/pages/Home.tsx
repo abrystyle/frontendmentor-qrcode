@@ -1,11 +1,6 @@
 import React, { useState } from "react"
 import imgQRcode from "../public/image-qr-code.png"
 
-type HomeProps = {
-  name: string,
-  tech: string[],
-}
-
 function Home() {
  
 

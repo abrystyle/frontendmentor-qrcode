@@ -3,7 +3,7 @@ import Home from "./pages/Home"
 import About from "./pages/About"
 import "./App.css"
 
-function App(): React.ReactNode {
+function App() {
   return (
     <Switch>
       <Route path="/" component={Home} />
